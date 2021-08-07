@@ -38,7 +38,7 @@ export default function Layout(props) {
               className="bg-blue-900 hover:bg-blue-800 text-white py-2 px-4 rounded w-full transition duration-150"
               onClick={() => newChannel()}
             >
-              New Channel
+              New Channel XXXX
             </button>
           </div>
           <hr className="m-2" />
